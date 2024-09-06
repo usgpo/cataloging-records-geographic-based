@@ -23,7 +23,7 @@ We selected a group of MARC fields and subfields to identify records that are re
 
 The reports are in the form of tab-separated values spreadsheets. They include several different types of metadata, such as:
 
-- Match points 
+- Match points
   - MARC field names and tags
 - Major metadata elements
   - Titles
@@ -60,6 +60,15 @@ We are testing this process with one state in each [National Collection Service 
 - Texas (South)
 
 We plan to create record sets for all states and entitites and to combine the files for the states and entities in each NCSA into individual collections.
+
+## Collections List
+
+| **State** | **NCSA** | **No. of Records** | **Last Update** | **Record Formats** | **Cataloging Dates** |
+| :----- | :----- | :----- | :----- | :----- | :----- |
+| Alaska | West | 13,053 | 8/2024 | All | All |
+| Ohio | Midwest | 8,865 | 8/2024 | All | All |
+| Pennsylvania | Northeast | 8,246 | 8/2024 | All | All |
+| Texas | South | 11,047 | 8/2024 | All | All |
 
 ## Other Repositories  
 
