@@ -54,64 +54,64 @@ The reports are in the form of tab-separated values spreadsheets. They include s
 
 ## Collections List
 
-| **State** | **NCSA** | **No. of Records** | **Last Update** | **Record Formats** | **Cataloging Dates** |
+| **NCSA** | **State** | **No. of Records** | **Last Update** | **Record Formats** | **Cataloging Dates** |
 | :----- | :----- | :----- | :----- | :----- | :----- |
-| Illinois | Midwest | 6,649 | 4/2025 | All | All |
-| Indiana | Midwest | 7,055 | 4/2025 | All | All |
-| Iowa | Midwest | 4,849 | 4/2025 | All | All |
-| Kansas | Midwest | 7,716 | 4/2025 | All | All |
-| Michigan | Midwest | 6,072 | 4/2025 | All | All |
-| Minnesota | Midwest | 4,758 | 4/2025 | All | All |
-| Missouri | Midwest | 5,975 | 4/2025 | All | All |
-| Nebraska | Midwest | 3,015 | 4/2025 | All | All |
-| North Dakota | Midwest | 2,728 | 4/2025 | All | All |
-| Ohio | Midwest | 8,876 | 4/2025 | All | All |
-| South Dakota | Midwest | 2,817 | 4/2025 | All | All |
-| Wisconsin | Midwest | 6,133 | 4/2025 | All | All |
-| Connecticut | Northeast | 2,256 | 4/2025 | All | All |
-| Delaware | Northeast | 1,829 | 4/2025 | All | All |
-| District of Columbia | Northeast | 5,859 | 4/2025 | All | All |
-| Maine | Northeast | 3,189 | 4/2025 | All | All |
-| Maryland | Northeast | 4,755 | 4/2025 | All | All |
-| Massachusetts | Northeast | 4,471 | 4/2025 | All | All |
-| New Hampshire | Northeast | 1,869 | 4/2025 | All | All |
-| Newjersey | Northeast | 3,911 | 4/2025 | All | All |
-| New York | Northeast | 10,778 | 4/2025 | All | All |
-| Pennsylvania | Northeast | 8,263 | 4/2025 | All | All |
-| Rhode Island | Northeast | 1,262 | 4/2025 | All | All |
-| Vermont | Northeast | 1,627 | 4/2025 | All | All |
-| Alabama | South | 4,128 | 4/2025 | All | All |
-| Arkansas | South | 3,584 | 4/2025 | All | All |
-| Florida | South | 8,834 | 4/2025 | All | All |
-| Georgia | South | 5,165 | 4/2025 | All | All |
-| Kentucky | South | 3,370 | 4/2025 | All | All |
-| Louisiana | South | 5,264 | 4/2025 | All | All |
-| Mississippi | South | 5,224 | 4/2025 | All | All |
-| North Carolina | South | 5,573 | 4/2025 | All | All |
-| Oklahoma | South | 3,695 | 4/2025 | All | All |
-| Puerto Rico | South | 2,341 | 4/2025 | All | All |
-| South Carolina | South | 3,084 | 4/2025 | All | All |
-| Tennessee | South | 6,513 | 4/2025 | All | All |
-| Texas | South | 11,069 | 4/2025 | All | All |
-| Virginia | South | 9,340 | 4/2025 | All | All |
-| Virgin Islands of the United States | South | 55 | 4/2025 | All | All |
-| West Virginia | South | 2,962 | 4/2025 | All | All |
-| Alaska | West | 13,094 | 4/2025 | All | All |
-| American Samoa | West | 395 | 4/2025 | All | All |
-| Arizona | West | 8,092 | 4/2025 | All | All |
-| California | West | 24,107 | 4/2025 | All | All |
-| Colorado | West | 11,152 | 4/2025 | All | All |
-| Guam | West | 740 | 4/2025 | All | All |
-| Hawaii | West | 3,935 | 4/2025 | All | All |
-| Idaho | West | 7,778 | 4/2025 | All | All |
-| Montana | West | 7,693 | 4/2025 | All | All |
-| Nevada | West | 6,863 | 4/2025 | All | All |
-| New Mexico | West | 7,442 | 4/2025 | All | All |
-| Northern Mariana Islands | West | 368 | 4/2025 | All | All |
-| Oregon | West | 10,054 | 4/2025 | All | All |
-| Utah | West | 8,785 | 4/2025 | All | All |
-| Washington State | West | 328 | 4/2025 | All | All |
-| Wyoming | West | 6,372 | 4/2025 | All | All |
+| Midwest | Illinois | 6,649 | 4/2025 | All | All |
+| Midwest | Indiana | 7,055 | 4/2025 | All | All |
+| Midwest | Iowa | 4,849 | 4/2025 | All | All |
+| Midwest | Kansas | 7,716 | 4/2025 | All | All |
+| Midwest | Michigan | 6,072 | 4/2025 | All | All |
+| Midwest | Minnesota | 4,758 | 4/2025 | All | All |
+| Midwest | Missouri | 5,975 | 4/2025 | All | All |
+| Midwest | Nebraska | 3,015 | 4/2025 | All | All |
+| Midwest | North Dakota | 2,728 | 4/2025 | All | All |
+| Midwest | Ohio | 8,876 | 4/2025 | All | All |
+| Midwest | South Dakota | 2,817 | 4/2025 | All | All |
+| Midwest | Wisconsin | 6,133 | 4/2025 | All | All |
+| Northeast | Connecticut | 2,256 | 4/2025 | All | All |
+| Northeast | Delaware | 1,829 | 4/2025 | All | All |
+| Northeast | District of Columbia | 5,859 | 4/2025 | All | All |
+| Northeast | Maine | 3,189 | 4/2025 | All | All |
+| Northeast | Maryland | 4,755 | 4/2025 | All | All |
+| Northeast | Massachusetts | 4,471 | 4/2025 | All | All |
+| Northeast | New Hampshire | 1,869 | 4/2025 | All | All |
+| Northeast | New Jersey | 3,911 | 4/2025 | All | All |
+| Northeast | New York | 10,778 | 4/2025 | All | All |
+| Northeast | Pennsylvania | 8,263 | 4/2025 | All | All |
+| Northeast | Rhode Island | 1,262 | 4/2025 | All | All |
+| Northeast | Vermont | 1,627 | 4/2025 | All | All |
+| South | Alabama | 4,128 | 4/2025 | All | All |
+| South | Arkansas | 3,584 | 4/2025 | All | All |
+| South | Florida | 8,834 | 4/2025 | All | All |
+| South | Georgia | 5,165 | 4/2025 | All | All |
+| South | Kentucky | 3,370 | 4/2025 | All | All |
+| South | Louisiana | 5,264 | 4/2025 | All | All |
+| South | Mississippi | 5,224 | 4/2025 | All | All |
+| South | North Carolina | 5,573 | 4/2025 | All | All |
+| South | Oklahoma | 3,695 | 4/2025 | All | All |
+| South | Puerto Rico | 2,341 | 4/2025 | All | All |
+| South | South Carolina | 3,084 | 4/2025 | All | All |
+| South | Tennessee | 6,513 | 4/2025 | All | All |
+| South | Texas | 11,069 | 4/2025 | All | All |
+| South | Virginia | 9,340 | 4/2025 | All | All |
+| South | Virgin Islands of the United States | 55 | 4/2025 | All | All |
+| South | West Virginia | 2,962 | 4/2025 | All | All |
+| West | Alaska | 13,094 | 4/2025 | All | All |
+| West | American Samoa | 395 | 4/2025 | All | All |
+| West | Arizona | 8,092 | 4/2025 | All | All |
+| West | California | 24,107 | 4/2025 | All | All |
+| West | Colorado | 11,152 | 4/2025 | All | All |
+| West | Guam | 740 | 4/2025 | All | All |
+| West | Hawaii | 3,935 | 4/2025 | All | All |
+| West | Idaho | 7,778 | 4/2025 | All | All |
+| West | Montana | 7,693 | 4/2025 | All | All |
+| West | Nevada | 6,863 | 4/2025 | All | All |
+| West | New Mexico | 7,442 | 4/2025 | All | All |
+| West | Northern Mariana Islands | 368 | 4/2025 | All | All |
+| West | Oregon | 10,054 | 4/2025 | All | All |
+| West | Utah | 8,785 | 4/2025 | All | All |
+| West | Washington State | 328 | 4/2025 | All | All |
+| West | Wyoming | 6,372 | 4/2025 | All | All |
 
 ## Other Repositories  
 
