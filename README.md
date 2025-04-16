@@ -97,10 +97,10 @@ The reports are in the form of tab-separated values spreadsheets. They include s
 | South | Virgin Islands of the United States | 55 | 4/2025 | All | All |
 | South | West Virginia | 2,962 | 4/2025 | All | All |
 | West | Alaska | 13,094 | 4/2025 | All | All |
-| West | American Samoa | 395 | 4/2025 | All | All |
 | West | Arizona | 8,092 | 4/2025 | All | All |
 | West | California | 24,107 | 4/2025 | All | All |
 | West | Colorado | 11,152 | 4/2025 | All | All |
+| West | Federated States of Micronesia | 106 | 4/2025 | All | All |
 | West | Guam | 740 | 4/2025 | All | All |
 | West | Hawaii | 3,935 | 4/2025 | All | All |
 | West | Idaho | 7,778 | 4/2025 | All | All |
