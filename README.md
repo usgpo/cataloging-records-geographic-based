@@ -112,6 +112,8 @@ The reports are in the form of tab-separated values spreadsheets. They include s
 | West | Utah | 8,785 | 4/2025 | All | All |
 | West | Washington State | 328 | 4/2025 | All | All |
 | West | Wyoming | 6,372 | 4/2025 | All | All |
+| **Total Number of Records** |  | **313,822** |
+------------
 
 ## Other Repositories  
 
