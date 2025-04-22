@@ -1,5 +1,6 @@
-# Catalog of U.S. Government Publications Geographic-Based Record Sets
+# CGP Geographic-Based
 
+## General Information
 Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), creates and maintains the collections in the repository.
 This repository contains sets of bibliographic records in the Catalog of U.S. Government Publications (CGP) based on geographic coverage and governmental jurisdictions and reports about the records. The records have been extracted using a list of MARC metadata elements. Our intention is to provide a new product for Federal depository libraries to develop and manage their collections and the GPO records in their catalogs and systems.
 
@@ -70,7 +71,7 @@ We plan to create record sets for all states and entitites and to combine the fi
 | Pennsylvania | Northeast | 8,246 | 8/2024 | All | All |
 | Texas | South | 11,047 | 8/2024 | All | All |
 
-## Other Repositories  
+## Other LSCM Repositories  
 
 LSCM develops and maintains other repositories:
 
@@ -104,6 +105,6 @@ GitHub uses a versioning system to provide access to the iterations of a reposit
 - The main page of the repository on that date will be displayed.
 - The resources in the repository on that date will be available for viewing and downloading.
 
-## Contact Information
+## Feedback and Questions
 
-Please send your feedback and questions about our repository and records to MCS by submitting an inquiry in the Cataloging/Metadata (Policy and Records) category via [askGPO](https://ask.gpo.gov/s/).
+For questions and feedback about the repositories, collections, and resources, please submit inquiries via [askGPO](https://ask.gpo.gov/s/). Select the Federal Depository Library tile and then the Cataloging/Metadata (Policy and Records) category.
