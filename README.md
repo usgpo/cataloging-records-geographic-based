@@ -4,7 +4,7 @@
 Library Services & Content Management (LSCM) of the U.S. Government Publishing Office created this repository. Metadata and Collection Services (MCS), formerly Library Technical Services (LTS), creates and maintains the collections in the repository.
 This repository contains sets of bibliographic records in the Catalog of U.S. Government Publications (CGP) based on geographic coverage and governmental jurisdictions and reports about the records. The records have been extracted using a list of MARC metadata elements. Our intention is to provide a new product for Federal depository libraries to develop and manage their collections and the GPO records in their catalogs and systems.
 
-We selected a group of MARC fields and subfields to identify records that are related to a particular state or entity. We use the full names, abbreviations, and adjectival forms of the names as the match points.
+We selected a group of MARC fields and subfields to identify records that are related to a particular state or entity. We use the full names, abbreviations, and adjectival forms of the names as the match points. The records have been named and placed in folders corresponding to their [National Collection Service Area (NCSA)](https://www.fdlp.gov/about-the-fdlp/national-collection-service-areas).
 
 - [Geographic Area Code (043)](https://www.loc.gov/marc/bibliographic/bd043.html)
   - Please see the [MARC Code List for Geographic Areas](https://www.loc.gov/marc/geoareas/)
@@ -53,23 +53,68 @@ The reports are in the form of tab-separated values spreadsheets. They include s
     - True or False
   - OCLC numbers of the online equivalent records
 
-We are testing this process with one state in each [National Collection Service Area (NCSA)](https://www.fdlp.gov/about-the-fdlp/national-collection-service-areas):
-
-- Alaska (West)
-- Ohio (Midwest)
-- Pennsylvania (Northeast)
-- Texas (South)
-
-We plan to create record sets for all states and entitites and to combine the files for the states and entities in each NCSA into individual collections.
-
 ## Collections List
 
-| **State** | **NCSA** | **No. of Records** | **Last Update** | **Record Formats** | **Cataloging Dates** |
+| **NCSA** | **State** | **No. of Records** | **Last Update** | **Record Formats** | **Cataloging Dates** |
 | :----- | :----- | :----- | :----- | :----- | :----- |
-| Alaska | West | 13,053 | 8/2024 | All | All |
-| Ohio | Midwest | 8,865 | 8/2024 | All | All |
-| Pennsylvania | Northeast | 8,246 | 8/2024 | All | All |
-| Texas | South | 11,047 | 8/2024 | All | All |
+| Midwest | Illinois | 6,649 | 4/2025 | All | All |
+| Midwest | Indiana | 7,055 | 4/2025 | All | All |
+| Midwest | Iowa | 4,849 | 4/2025 | All | All |
+| Midwest | Kansas | 7,716 | 4/2025 | All | All |
+| Midwest | Michigan | 6,072 | 4/2025 | All | All |
+| Midwest | Minnesota | 4,758 | 4/2025 | All | All |
+| Midwest | Missouri | 5,975 | 4/2025 | All | All |
+| Midwest | Nebraska | 3,015 | 4/2025 | All | All |
+| Midwest | North Dakota | 2,728 | 4/2025 | All | All |
+| Midwest | Ohio | 8,876 | 4/2025 | All | All |
+| Midwest | South Dakota | 2,817 | 4/2025 | All | All |
+| Midwest | Wisconsin | 6,133 | 4/2025 | All | All |
+| Northeast | Connecticut | 2,256 | 4/2025 | All | All |
+| Northeast | Delaware | 1,829 | 4/2025 | All | All |
+| Northeast | District of Columbia | 5,859 | 4/2025 | All | All |
+| Northeast | Maine | 3,189 | 4/2025 | All | All |
+| Northeast | Maryland | 4,755 | 4/2025 | All | All |
+| Northeast | Massachusetts | 4,471 | 4/2025 | All | All |
+| Northeast | New Hampshire | 1,869 | 4/2025 | All | All |
+| Northeast | New Jersey | 3,911 | 4/2025 | All | All |
+| Northeast | New York | 10,778 | 4/2025 | All | All |
+| Northeast | Pennsylvania | 8,263 | 4/2025 | All | All |
+| Northeast | Rhode Island | 1,262 | 4/2025 | All | All |
+| Northeast | Vermont | 1,627 | 4/2025 | All | All |
+| South | Alabama | 4,128 | 4/2025 | All | All |
+| South | Arkansas | 3,584 | 4/2025 | All | All |
+| South | Florida | 8,834 | 4/2025 | All | All |
+| South | Georgia | 5,165 | 4/2025 | All | All |
+| South | Kentucky | 3,370 | 4/2025 | All | All |
+| South | Louisiana | 5,264 | 4/2025 | All | All |
+| South | Mississippi | 5,224 | 4/2025 | All | All |
+| South | North Carolina | 5,573 | 4/2025 | All | All |
+| South | Oklahoma | 3,695 | 4/2025 | All | All |
+| South | Puerto Rico | 2,341 | 4/2025 | All | All |
+| South | South Carolina | 3,084 | 4/2025 | All | All |
+| South | Tennessee | 6,513 | 4/2025 | All | All |
+| South | Texas | 11,069 | 4/2025 | All | All |
+| South | Virginia | 9,340 | 4/2025 | All | All |
+| South | Virgin Islands of the United States | 55 | 4/2025 | All | All |
+| South | West Virginia | 2,962 | 4/2025 | All | All |
+| West | Alaska | 13,094 | 4/2025 | All | All |
+| West | Arizona | 8,092 | 4/2025 | All | All |
+| West | California | 24,107 | 4/2025 | All | All |
+| West | Colorado | 11,152 | 4/2025 | All | All |
+| West | Federated States of Micronesia | 106 | 4/2025 | All | All |
+| West | Guam | 740 | 4/2025 | All | All |
+| West | Hawaii | 3,935 | 4/2025 | All | All |
+| West | Idaho | 7,778 | 4/2025 | All | All |
+| West | Montana | 7,693 | 4/2025 | All | All |
+| West | Nevada | 6,863 | 4/2025 | All | All |
+| West | New Mexico | 7,442 | 4/2025 | All | All |
+| West | Northern Mariana Islands | 368 | 4/2025 | All | All |
+| West | Oregon | 10,054 | 4/2025 | All | All |
+| West | Utah | 8,785 | 4/2025 | All | All |
+| West | Washington State | 328 | 4/2025 | All | All |
+| West | Wyoming | 6,372 | 4/2025 | All | All |
+| **Total Number of Records** |  | **313,822** |
+------------
 
 ## Other LSCM Repositories  
 
