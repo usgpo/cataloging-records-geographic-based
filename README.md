@@ -1,6 +1,6 @@
 # Catalog of U.S. Government Publications Geographic-Based Record Sets
 
-Metadata. and Collection Services (MCS), Library Services and Content Management (LSCM) of the [U.S. Government Publishing Office](https://www.gpo.gov) created and maintains this repository. The intention is to provide new products for Federal depository libraries to develop and manage their collections and the GPO records in their catalogs and systems.
+Metadata and Collection Services (MCS), Library Services and Content Management (LSCM) of the [U.S. Government Publishing Office](https://www.gpo.gov) created and maintains this repository. The intention is to provide new products for Federal depository libraries to develop and manage their collections and the GPO records in their catalogs and systems.
 
 The repository contains sets of [Catalog of U.S. Government Publications (CGP)](https://catalog.gpo.gov) MARC records and reports on the records for each state and jurisdiction. The files have been named and organized in folders corresponding to their [National Collection Service Area (NCSA)](https://www.fdlp.gov/about-the-fdlp/national-collection-service-areas).
 
